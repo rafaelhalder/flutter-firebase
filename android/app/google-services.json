@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "498051830570",
+    "project_id": "halder-firebase",
+    "storage_bucket": "halder-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498051830570:android:696ef590160b34b3f30453",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498051830570-gc8cb87fubdtqf863riot442ghe2up52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChP6K_wVEbhePSeVAby32rCUiZNMYbbkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498051830570-gc8cb87fubdtqf863riot442ghe2up52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498051830570-ia6imnh2bloif3a3agm4as1hjqnpna5s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
